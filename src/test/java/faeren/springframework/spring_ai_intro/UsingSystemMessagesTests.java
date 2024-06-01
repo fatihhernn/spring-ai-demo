@@ -82,6 +82,7 @@ public class UsingSystemMessagesTests extends BaseTestClass {
 
         List<Message> messages = List.of(systemMessage, userMessage2);
 
+
         Prompt prompt = new Prompt(messages);
 
         System.out.println(openAiChatClient.call(prompt).getResult().getOutput().getContent());
