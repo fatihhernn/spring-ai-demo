@@ -8,9 +8,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import java.util.Map;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
 @SpringBootTest
 public class InferenceTests extends BaseTestClass {
 

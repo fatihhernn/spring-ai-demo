@@ -1,7 +1,5 @@
 package faeren.springframework.spring_ai_intro.services;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import faeren.springframework.spring_ai_intro.model.Answer;
 import faeren.springframework.spring_ai_intro.model.GetCapitalRequest;
